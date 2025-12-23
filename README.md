@@ -1,4 +1,7 @@
 ## Hi there 👋
+### My name is Chanpreet Singh, I am a Frontend Developer
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,bootstrap,tailwind,vue,react,express,mongodb)](https://skillicons.dev)
 
 <!--
 **chanpreetsembhi/chanpreetsembhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
